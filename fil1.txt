@@ -1,1 +1,2 @@
 This is first line.
+Came back to first commit in master branch and then added this line.
